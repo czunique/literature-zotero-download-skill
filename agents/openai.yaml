@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Zotero Download"
+  short_description: "Find papers, download PDFs, and import Zotero"
+  default_prompt: "Use $literature-zotero-download to find papers, download available PDFs legally, import them into Zotero, and generate a literature summary spreadsheet."
