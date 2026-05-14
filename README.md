@@ -109,6 +109,20 @@ task-folder/
 
 无法可靠判断的内容应填写 `待精读`，不能凭标题硬编。
 
+## 相关项目
+
+下面这些项目可以作为本 Skill 的生态参考。后续如果收集到新的文献下载、Zotero、Obsidian 或 Codex skills 项目，可以继续追加到这个表格中。
+
+| 项目 | 类型 | 主要用途 | 和本 Skill 的关系 |
+| --- | --- | --- | --- |
+| [codex-skills-workbench](https://github.com/Jinze-Lee/codex-skills-workbench) | Codex skills 工作台 | 偏向公开文献下载和 skills 工作流组织 | 可参考其公开文献下载思路；本 Skill 进一步强调学校订阅数据库、合法登录态和 Zotero/Excel 闭环 |
+| [MindCite](https://github.com/YYCCCHAOOO/MindCite) | 研究流程模板 | Zotero + Obsidian + Codex 的文献阅读、笔记质检和分类治理 | 可作为下载后的阅读、笔记和知识库治理补充 |
+| [cnki-skills](https://github.com/cookjohn/cnki-skills) | 数据库专项 Skill | CNKI 搜索、浏览期刊、下载 PDF，并通过 Chrome DevTools MCP 导出到 Zotero | 可参考 CNKI 页面流程和导出习惯；本 Skill 默认用 Codex Chrome/Computer Use/Zotero 插件替代部分 MCP 能力 |
+| [gs-skills](https://github.com/cookjohn/gs-skills) | 数据库专项 Skill | Google Scholar 搜索、引用追踪、全文访问和 Zotero 导出 | 可作为 Google Scholar 辅助发现流程参考；本 Skill 会限制高频抓取并优先合法全文来源 |
+| [wos-skills](https://github.com/cookjohn/wos-skills) | 数据库专项 Skill | Web of Science 搜索、浏览、导出和下载学术论文 | 可参考 WoS 的检索、筛选、导出流程 |
+| [sd-skills](https://github.com/cookjohn/sd-skills) | 数据库专项 Skill | ScienceDirect 搜索、浏览、导出和下载学术论文 | 可参考 ScienceDirect 的 PDF 下载和题录导出流程 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | Zotero MCP 插件 | 通过 MCP 协议让 AI 助手访问和操作 Zotero 文献库 | 可作为未来增强方案；本 Skill 第一版优先使用 Codex Zotero 插件，不强制安装 zotero-mcp |
+
 ## 安全边界
 
 本 Skill 只用于合法访问：
