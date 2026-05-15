@@ -115,6 +115,7 @@ task-folder/
 
 | 项目 | 类型 | 主要用途 | 和本 Skill 的关系 |
 | --- | --- | --- | --- |
+| [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | 自动化科研工具清单 | 汇总从文献综述、想法生成、实验执行、论文写作到同行评审的开源自动化科研项目 | 可作为后续扩展相关 skills、MCP、Zotero/Obsidian 工作流和自动化研究工具的总索引 |
 | [codex-skills-workbench](https://github.com/Jinze-Lee/codex-skills-workbench) | Codex skills 工作台 | 偏向公开文献下载和 skills 工作流组织 | 可参考其公开文献下载思路；本 Skill 进一步强调学校订阅数据库、合法登录态和 Zotero/Excel 闭环 |
 | [MindCite](https://github.com/YYCCCHAOOO/MindCite) | 研究流程模板 | Zotero + Obsidian + Codex 的文献阅读、笔记质检和分类治理 | 可作为下载后的阅读、笔记和知识库治理补充 |
 | [cnki-skills](https://github.com/cookjohn/cnki-skills) | 数据库专项 Skill | CNKI 搜索、浏览期刊、下载 PDF，并通过 Chrome DevTools MCP 导出到 Zotero | 可参考 CNKI 页面流程和导出习惯；本 Skill 默认用 Codex Chrome/Computer Use/Zotero 插件替代部分 MCP 能力 |
